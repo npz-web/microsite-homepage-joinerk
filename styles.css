@@ -1,1 +1,44 @@
 /* your styles will go here!! */
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+}
+
+header {
+    background: #252525;
+    width: 100vw;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    
+}
+
+header nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+header nav a {
+    color: #fff;
+}
+
+main {
+    max-width: 1000px;
+    background-color: #313131;
+    color: #fff;
+    padding: 30px 35px;
+}
+
+main img {
+    max-width: 100%;
+}
+
+.wrapper {
+    background: rgba(242, 242, 242, 0.20);
+    padding: 43px 70px;
+}
