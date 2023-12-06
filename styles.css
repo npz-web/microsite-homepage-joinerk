@@ -48,6 +48,10 @@ main img {
     padding: 43px 70px;
 }
 
+#more {
+    display: none;
+}
+
 footer {
    
 }
