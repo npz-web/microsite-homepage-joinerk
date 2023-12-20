@@ -89,12 +89,12 @@ h2 {
 }
 
 footer {
-   position: fixed;
-   bottom: 0;
-   background: #252525;
-   width: 100vw;
-   height: 50px;
-   display: flex;
+    position: fixed;
+    bottom: 0;
+    background: #252525;
+    width: 100vw;
+    height: 50px;
+    display: flex;
     align-items: center;
     text-align: center;
   
@@ -110,5 +110,3 @@ footer div {
     min-width: 750px;
     overflow-x: scroll;
 }
-
-/* Char Page */
